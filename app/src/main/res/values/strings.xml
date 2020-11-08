@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VH FileManager</string>
+    <string name="copy">copy</string>
+    <string name="delete">delete</string>
+    <string name="remove">remove</string>
+    <string name="rename">rename</string>
+</resources>
